@@ -18,5 +18,5 @@ badass.isMarried = false
 badass.isLayDown = true
 ```
 
-###个人主页  
+### 个人主页  
 要取得更多信息请转到 [个人主页](https://example.com/).
